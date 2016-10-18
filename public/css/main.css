@@ -1,0 +1,31 @@
+body {
+  background: red; }
+
+.header {
+  color: white;
+  font-size: 1.5vw;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-top: 1vw; }
+
+.subheader {
+  color: white;
+  font-size: 1vw; }
+
+.logo {
+  content: url("logo.svg");
+  width: 5vw;
+  margin-left: 1.5vw;
+  margin-top: 0.5vw; }
+
+.landing_header_container {
+  background: black;
+  opacity: 0.5;
+  height: 6vw; }
+
+.hotspot_navigation {
+  text-align: right;
+  color: white;
+  background: darkgreen;
+  margin-top: 0.8vw;
+  height: 2vw; }
