@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Description:
 This comes with SASS, Browser-Sync, Gulp, nodemon, Handlebars, bootstrap, jquery and underscore.
 
@@ -51,6 +50,4 @@ localhost:3000
 
 
 
-=======
-# now_you_node
->>>>>>> 8cbd342c4e97c7372e3dcbc9608a3338f7d461d1
+
